@@ -29,5 +29,6 @@
 ## **:NOTA**
 **Para ejecutar cualquiera de estos ejercicios, selecciona una opción del menú principal.**
 
-![Persona programando]([URL-de-la-imagen](https://github.com/Sandra8723/practica/blob/main/programando.jpg?raw=true)https://github.com/Sandra8723/practica/blob/main/programando.jpg?raw=true)
+![Persona programando](https://github.com/Sandra8723/practica/blob/main/programando.jpg?raw=true)
+
 
