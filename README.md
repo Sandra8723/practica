@@ -1,6 +1,6 @@
-# Menú de Ejercicios Python
+# Documentaion Menu de ejercicios
 
-Este programa es un menú interactivo que te permite seleccionar uno de los cinco ejercicios disponibles y ejecutarlo. Cada ejercicio realiza una tarea diferente en Python.
+Este menú interactivo permite seleccionar uno de los cinco ejercicios, cada ejercicio realiza una tarea diferente en Python.
 
 ## Ejercicio 1: Números en Orden Inverso
 
