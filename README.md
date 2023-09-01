@@ -1,31 +1,33 @@
-# Documentaion Menu de ejercicios
+# **Documentación Menu de ejercicios**
 
-Este menú interactivo permite seleccionar uno de los cinco ejercicios, cada ejercicio realiza una tarea diferente en Python.
+*Este menú interactivo permite seleccionar uno de los cinco ejercicios, cada ejercicio realiza una tarea diferente en Python.*
 
-## Ejercicio 1: Números en Orden Inverso
+## **Ejercicio 1: Números en Orden Inverso**
 
-Este ejercicio almacena una lista de números del 1 al 12 y los muestra por pantalla en orden inverso.
+*Este ejercicio almacena una lista de números del 1 al 12 y los muestra por pantalla en orden inverso.*
 
-## Ejercicio 2: Suma de Tuplas
+## **Ejercicio 2: Suma de Tuplas**
 
-Este ejercicio realiza una sumatoria de dos tuplas y muestra el resultado por pantalla.
+*Este ejercicio realiza una sumatoria de dos tuplas y muestra el resultado por pantalla.*
 
-## Ejercicio 3: Conjunto al Cuadrado
+## **Ejercicio 3: Conjunto al Cuadrado**
 
-Este ejercicio crea un nuevo conjunto basado en otro conjunto, cuyos valores sean al cuadrado.
+*Este ejercicio crea un nuevo conjunto basado en otro conjunto, cuyos valores sean al cuadrado.*
 
-## Ejercicio 4: Saludo Personalizado
+## **Ejercicio 4: Saludo Personalizado**
 
-Este ejercicio solicita un nombre y una edad, y muestra un mensaje de saludo personalizado con la edad.
+*Este ejercicio solicita un nombre y una edad, y muestra un mensaje de saludo personalizado con la edad.*
 
-## Ejercicio 5: Promedio de Notas
+## **Ejercicio 5: Promedio de Notas**
 
-Este ejercicio calcula el promedio de tres notas ingresadas por el usuario.
+*Este ejercicio calcula el promedio de tres notas ingresadas por el usuario.*
 
-## Menú Principal
+## **Menú Principal**
 
-El menú principal te permite seleccionar un ejercicio para ejecutar. Ingresa el número correspondiente al ejercicio que deseas probar.
+*El menú principal te permite seleccionar un ejercicio para ejecutar. Ingresa el número correspondiente al ejercicio que deseas probar.*
 
-## : NOTA
+## **:NOTA**
+**Para ejecutar cualquiera de estos ejercicios, selecciona una opción del menú principal.**
 
-Para ejecutar cualquiera de estos ejercicios, selecciona una opción del menú principal.
+![Persona programando]([URL-de-la-imagen](https://github.com/Sandra8723/practica/blob/main/programando.jpg?raw=true)https://github.com/Sandra8723/practica/blob/main/programando.jpg?raw=true)
+
